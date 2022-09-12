@@ -16,3 +16,5 @@ LazyData: true
 Imports: 
     magrittr,
     shiny
+URL: https://github.com/emitanaka/praise.be
+BugReports: https://github.com/emitanaka/praise.be/issues
