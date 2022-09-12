@@ -1,0 +1,18 @@
+Package: praise.be
+Title: Handmaid's Tale Data
+Version: 0.0.0.9000
+Authors@R: 
+    person("Emi", "Tanaka", , "dr.emi.tanaka@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-1455-259X"))
+Description: What the package does (one paragraph).
+License: GPL3 + file LICENSE
+Encoding: UTF-8
+Language: es
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Depends: 
+    R (>= 2.10)
+LazyData: true
+Imports: 
+    magrittr,
+    shiny
